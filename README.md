@@ -11,7 +11,7 @@ The agent uses them to build websites and to review existing ones: point it at a
 **Claude Code**
 
 ```bash
-git clone <repo-url> ~/.claude/skills/design
+git clone https://github.com/kirilft/design ~/.claude/skills/design
 ```
 
 **Claude.ai:** download the repo as a ZIP and upload it under Settings → Capabilities → Skills.
